@@ -11,8 +11,5 @@
 - CSS
 - Python
 
-## Current Projects
-- [Project name](link) — short description
-
 ## How to Reach Me
 - Email: prudencealice25@gmail.com
