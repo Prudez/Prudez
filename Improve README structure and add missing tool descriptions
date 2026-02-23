@@ -1,15 +1,91 @@
-## What does this PR do?
+# Useful Tools for Students
 
-- Improved README structure and formatting
-- Added a clear Introduction section
-- Suggested repository topics for better discoverability
+A collaborative guide by [list all team member names].
 
-## Why is this change needed?
+## Table of Contents
 
-To make the repository easier to understand and more professional.
+- [Introduction](#introduction)
+- [VS Code](#vs-code)
+- [Notion](#notion)
+- [Canva](#canva)
+- [ChatGPT](#chatgpt)
 
-## Checklist
+---
 
-- [ ] README formatting is clean and consistent
-- [ ] Introduction clearly explains the project
-- [ ] Changes were reviewed before submitting
+## Introduction
+
+This guide covers tools that every student should know about.  
+Each section is written by a different team member.  
+The goal is to help students improve productivity, learning, and project work.
+
+---
+
+## VS Code
+
+**Author: Mark Mwangi**  
+
+Visual Studio Code (VS Code) is a free, lightweight, and powerful source-code editor developed by Microsoft.  
+
+Key points:
+
+- Not an IDE by default, but can become one with extensions.
+- Widely used by programming students and professionals.
+- Lightweight and fast.
+- Supports almost every programming language.
+- Huge extension marketplace (example: C/C++ extension).
+- Features include multi-root workspaces and project-wide search.
+
+---
+
+## Notion
+
+**Author: Prudence Mutiso**  
+
+Notion is a tool to create, edit, and organize content efficiently.  
+
+Features:
+
+- **Writing & Editing:** Improves grammar, tone, and clarity; translates content.  
+- **Summarizing:** Condenses long notes or documents into short summaries.  
+- **Productivity:** Creates tasks, action items, and organizes projects.  
+- **Smart Searching:** Finds relevant information across your workspace quickly.
+
+---
+
+## Canva
+
+**Author: Ehen Mutiso**  
+
+Canva is an online graphic design platform to create visual content easily.  
+
+Uses for students:
+
+1. **Easy presentations** – Make clean slides quickly.  
+2. **UI/UX mockups** – Design app and website layouts.  
+3. **Portfolio building** – Create professional resumes and project portfolios.  
+4. **Visual explanations** – Flowcharts and diagrams for coding concepts.  
+5. **Project documentation** – Design neat reports.  
+6. **Team collaboration** – Work together on group projects.  
+7. **Saves time** – Ready-made templates speed up work.  
+8. **Beginner-friendly** – No design skills needed.
+
+---
+
+## ChatGPT
+
+**Author: Daisy Wairimu**  
+
+ChatGPT is an AI tool that helps students understand programming concepts, write code, and solve problems faster.  
+
+**Why Students Should Use It:**
+
+- Explains programming concepts clearly in simple language.  
+- Generates code in multiple languages (Python, JavaScript, Java, etc.).  
+- Helps debug and optimize code.  
+- Saves time when learning new topics or doing assignments.
+
+**Issues or Limitations:**
+
+- Generated code may not always be perfect; human review is needed.  
+- Information may become outdated as libraries and tools evolve.  
+- Over-reliance can reduce understanding of fundamentals.
