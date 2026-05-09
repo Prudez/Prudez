@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I'm Prudence👋
 
 #  Personal Portfolio
 
@@ -8,7 +8,7 @@ Welcome to my portfolio. This project represents my journey as I learn and grow 
 
 ##  About Me
 
-My name is **Prudence Mutiso**, and I am currently on a learning path in programming and web development.
+ I am currently on a learning path in programming and web development.
 
 I have a strong interest in building websites and creating interactive digital experiences. I’m actively improving my skills and exploring different areas of software development.
 
