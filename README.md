@@ -32,7 +32,7 @@ My long-term goal is to become a confident and skilled software developer.
 
 - **Personal Portfolio Website** — A website to showcase my skills, learning progress, and projects  
 - **Dev Nexus Kenya** — A group practice to strengthen my webpage skills creating a full hospital system.
-- **Marketting Analysis system - A personal project to see which marketting tools are bringing in more revenue.
+
 
 ---
 
