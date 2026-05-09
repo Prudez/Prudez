@@ -23,7 +23,8 @@ My long-term goal is to become a confident and skilled software developer.
 - Git & GitHub for version control  
 - HTML for web structure  
 - JavaScript for interactivity  
-- CSS for styling and designing web pages 
+- CSS for styling and designing web pages
+- API intergration 
 
 ---
 
@@ -31,10 +32,17 @@ My long-term goal is to become a confident and skilled software developer.
 
 - **Personal Portfolio Website** — A website to showcase my skills, learning progress, and projects  
 - **Dev Nexus Kenya** — A group practice to strengthen my webpage skills creating a full hospital system.
+- **Marketting Analysis system - A personal project to see which marketting tools are bringing in more revenue.
 
 ---
 
+---
 
+##  How To contact me
+
+- Email : prudencealice25@gamil.com
+
+---
 ##  My Vision
 
 I aim to grow step by step into a professional software developer by consistently learning, building real projects, and working with other developers.
