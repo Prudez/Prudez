@@ -23,24 +23,17 @@ My long-term goal is to become a confident and skilled software developer.
 - Git & GitHub for version control  
 - HTML for web structure  
 - JavaScript for interactivity  
-- Python for programming fundamentals  
+- CSS for styling and designing web pages 
 
 ---
 
 ##  Projects I’m Working On
 
 - **Personal Portfolio Website** — A website to showcase my skills, learning progress, and projects  
-- **Coding Practice Exercises** — Regular practice to strengthen problem-solving and programming logic  
+- **Dev Nexus Kenya** — A group practice to strengthen my webpage skills creating a full hospital system.
 
 ---
 
-##  Get In Touch
-
-If you’d like to connect or collaborate, feel free to reach out:
-
-- Email: prudencealice25@gmail.com     
-
----
 
 ##  My Vision
 
